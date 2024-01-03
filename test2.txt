@@ -1,1 +1,7 @@
-Hi
+1. Git Clone --> git clone https://url.com/
+2. Change Directory Github to github1- --> cd github1
+3. Git Status Check --> git status - Result-> Untracked files:
+
+    Next
+
+    1. Add File Working Space to -> Git Local folder --> git add (that file ex) test2.txt 
